@@ -66,8 +66,8 @@ This Type based Architecture scales smoothly for small - medium apps. If you guy
     * Hit `Run` after selecting the desired device
 13. Enjoy!!!
 14. If you get RNGestureHandler error,than install `react-native-gesture-handler` and link it using
-    * npm install --save react-native-gesture-handler
-    * react-native link react-native-gesture-handler
+    * `npm install --save react-native-gesture-handler`
+    * `react-native link react-native-gesture-handler`
     than agian run again
 
 ## Contributing
