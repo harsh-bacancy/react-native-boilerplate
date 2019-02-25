@@ -42,7 +42,7 @@ This Type based Architecture scales smoothly for small - medium apps. If you guy
 
 ## Getting Started
 
-1. Clone this repo, `git clone https://github.com/victorkvarghese/react-native-boilerplate.git <your project name>`
+1. Clone this repo, `git clone https://github.com/harsh-bacancy/react-native-boilerplate.git <your project name>`
 2. Go to project's root directory, `cd <your project name>`
 3. Remove `.git` folder,  `rm -rf .git`
 4. Open `package.json` and change the `name` property with your project name
